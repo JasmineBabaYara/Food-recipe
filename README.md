@@ -17,7 +17,7 @@ npm start
 To use the application, simply run the application and move to your desired to open.
 
 ## Built With
-- React 
+- React.js 
 
 ## Author
 - Jasmine Baba Yara - [JasmineBabaYara](https://github.com/JasmineBabaYara)
